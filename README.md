@@ -1,17 +1,14 @@
 ![ic_launcher_round](https://github.com/user-attachments/assets/cffdb24f-876e-4cc8-ae72-db2d9ea3f8a8)
 # TODO
 
-Is a mobile application developed using Flutter with **Clean-Architecture**, designed to replicate the core functionalities and user experience of the popular music streaming service, Spotify. This clone allows users to browse and stream music from a library of tracks, as well as manage playlists and discover new music.
+Is a mobile application developed using Flutter and follows the MVC (Model-View-Controller) architectural pattern. The app is designed to help users manage their tasks efficiently by providing a simple and intuitive interface to add, edit, delete, and view tasks.
 
 ## Key Features
 
-* **User Authentication**: Secure sign-up and login with Firebase Authentication.
-* **Music Library**: Browse and stream songs from various genres and artists.
-* **Liked Music**: Save the music you enjoyed so you can listen to it again later.
+* **Task Management**: Easily add, update, and delete tasks.
+* **Due Dates**: Set due dates and reminders for important tasks.
+* **User Interface**: Clean and responsive UI with intuitive navigation and interaction.
 * **Change Theme**: You can switch between light and dark themes as needed.
-
-
-
 
 ## Screenshots
 
@@ -26,14 +23,9 @@ Is a mobile application developed using Flutter with **Clean-Architecture**, des
   <img src="https://github.com/user-attachments/assets/3ababa26-da49-4283-9fc3-47759202ebd9" width="30%" />
 </p>
 
-
-
 ## Dependencies Used
-* **Firebase Auth**: To handle authentication within the project.
-* **Firebase storage**: To store media files on the server.
-* **Firebase Firestore**: To set up a database for the application.
-* **Flutter Bloc**: To manage the application's state.
-* **Hydrated Bloc**: To enable theme switching in the app.
-* **Get It**: For dependency injection..
-* **GetX**: For navigation within the app.
-* **Just Audio**: To handle audio playback and loading.
+* **GetX**: For navigation and state management of the app.
+* **SQFlite**: Used to create a local database for storing tasks and app configuration.
+* **intl**: Used for date formatting.
+* **Flutter struggled animation **: Implements engaging animations to enhance the user experience.
+
