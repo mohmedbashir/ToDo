@@ -1,4 +1,4 @@
-![ic_launcher_round](https://github.com/user-attachments/assets/cffdb24f-876e-4cc8-ae72-db2d9ea3f8a8)
+![ic_launcher](https://github.com/user-attachments/assets/5fd29826-01bb-402e-9834-2d1c15b1775e)
 # TODO
 
 Is a mobile application developed using Flutter and follows the MVC (Model-View-Controller) architectural pattern. The app is designed to help users manage their tasks efficiently by providing a simple and intuitive interface to add, edit, delete, and view tasks.
@@ -27,5 +27,5 @@ Is a mobile application developed using Flutter and follows the MVC (Model-View-
 * **GetX**: For navigation and state management of the app.
 * **SQFlite**: Used to create a local database for storing tasks and app configuration.
 * **intl**: Used for date formatting.
-* **Flutter struggled animation **: Implements engaging animations to enhance the user experience.
+* **Flutter struggled animation**: Implements engaging animations to enhance the user experience.
 
