@@ -1,4 +1,4 @@
-![5](https://github.com/user-attachments/assets/8142c013-5b6f-4d7e-93b2-640bea192e97)![6](https://github.com/user-attachments/assets/ed2e9a20-7873-4ea5-8af2-3d8da46f501e)![ic_launcher_round](https://github.com/user-attachments/assets/cffdb24f-876e-4cc8-ae72-db2d9ea3f8a8)
+![ic_launcher_round](https://github.com/user-attachments/assets/cffdb24f-876e-4cc8-ae72-db2d9ea3f8a8)
 # TODO
 
 Is a mobile application developed using Flutter with **Clean-Architecture**, designed to replicate the core functionalities and user experience of the popular music streaming service, Spotify. This clone allows users to browse and stream music from a library of tracks, as well as manage playlists and discover new music.
